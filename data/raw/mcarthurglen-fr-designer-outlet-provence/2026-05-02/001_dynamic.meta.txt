@@ -1,0 +1,3 @@
+source_url=https://www.mcarthurglen.com/en/outlets/fr/designer-outlet-provence/stores/
+source_mode=dynamic
+page_index=1

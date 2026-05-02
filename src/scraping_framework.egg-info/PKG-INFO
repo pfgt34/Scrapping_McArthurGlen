@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: scraping-framework
+Version: 0.1.0
+Summary: Modular ETL scraping framework for mall and outlet portfolios
+Requires-Python: >=3.10
